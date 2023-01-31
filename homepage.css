@@ -148,7 +148,7 @@ textarea{
 }
 /* End extract */
 html,body{
-    font-family:Verdana,sans-serif;
+    font-family:Optima;
     font-size:15px;line-height:1.5
 }
 html{
@@ -173,19 +173,19 @@ h5{
         font-size:16px
     }
 .w3-serif{
-    font-family:serif
+    font-family:Optima
 }
 .w3-sans-serif{
-    font-family:sans-serif
+    font-family:Optima
 }
 .w3-cursive{
-    font-family:cursive
+    font-family:Optima
 }
 .w3-monospace{
-    font-family:monospace
+    font-family:Optima
 }
 h1,h2,h3,h4,h5,h6{
-    font-family:"Segoe UI",Arial,sans-serif;
+    font-family:"Optima";
     font-weight:400;
     margin:10px 0
 }
@@ -802,7 +802,7 @@ a{
     margin-bottom:16px
 }
 .w3-code,.w3-codespan{
-    font-family:Consolas,"courier new";
+    font-family:"Optima";
     font-size:16px
 }
 .w3-code{
