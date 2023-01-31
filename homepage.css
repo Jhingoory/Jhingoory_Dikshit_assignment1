@@ -1,4 +1,16 @@
 /* W3.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
+:root{
+    --colour--C0:rgb(167,169,172);
+    --colour--C1:rgb(0,125,190);
+    --colour--C2:rgb(0,88,138);
+    --colour--C3:rgb(0,171,189);
+    --colour--C4:rgb(84,198,211);
+    --colour--C5:rgb(0,183,199);
+    --colour--C6:rgb(35,31,32);
+    --colour--C7:rgb(99,100,102);
+    
+}
+
 html{
     box-sizing:border-box
 }*,*:before,*:after{
